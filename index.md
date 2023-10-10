@@ -22,11 +22,8 @@ In this project, I use Geopandas to visualise data on deprivation levels in Lond
 
 ---
 
----
-
 ### Recent projects will be updated here!
 
-- [Cancer prediction based on genetics mutation]
 ---
 
 
