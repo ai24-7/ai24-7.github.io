@@ -4,5 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a data scientist with 3+ years of experience. Companies that I have the opportunity to work with include: Rabobank, ABD Co., and Fanni Park Group.
   <br><br>
   <a href="https://www.linkedin.com/in/daniel-safavi-0163a5140?trk=people-guest_people_search-card">View My LinkedIn Profile</a> 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
