@@ -3,11 +3,9 @@ logo: "/images/photo_2023-09-23 08.26.48.jpeg?raw=true" # your photo (or logo) h
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a data scientist with 3+ years of experience.  
   <br><br>
-  Companies that I have the opportunity to work with include:
-  Rabobank, ABD Co., and Fanni Park Group.
+  Companies that I have the opportunity to work with include: Rabobank, ABD Co., and Fanni Park Group.
   <br><br>
   <a href="https://www.linkedin.com/in/daniel-safavi/">View My LinkedIn Profile</a> 
-  <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
